@@ -75,7 +75,7 @@ st.write("---")
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 #st.write('\n')
-st.subheader(f":white[Experience & Qulifications]")
+st.subheader(f"Experience & Qualifications")
 st.write(
     """
 - ✔️ 1.5 Years expereince extracting actionable insights from data
@@ -88,7 +88,7 @@ st.write(
 
 # --- SKILLS ---
 st.write('\n')
-st.subheader(f":white[Hard Skills]")
+st.subheader(f"Hard Skills")
 st.write(
 """
 - 🖥️ Operating system: MacOS, Windows, Linux.
@@ -103,7 +103,7 @@ st.write(
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader(f":white[Work History]")
+st.subheader(f"Work History")
 st.write("---")
 
 # --- JOB 1
@@ -137,7 +137,7 @@ directional decisions.
 
 # --- Projects & Accomplishments ---
 st.write('\n')
-st.subheader(f":white[Projects & Accomplishments]")
+st.subheader(f"Projects & Accomplishments")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
